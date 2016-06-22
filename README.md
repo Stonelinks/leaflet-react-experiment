@@ -1,2 +1,2 @@
 # leaflet-react-experiment
-POC that a react components can mount on leaflet controls
+Small POC that react can mount on leaflet controls
